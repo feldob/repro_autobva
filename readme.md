@@ -5,6 +5,7 @@ Content:
 - runs: directory with meta data per experimental execution. the samplingscreening subdirectory contains the results of the pre-study explained in Appendix A to determine a useful default sampling strategy.
 - scripts: directory with all scripts to extract statistics.
 - clusterings: directory containing the cluster assignment of all candidates. The screening subdirectory contains the results of the pre-study to determine a useful feature set as of Appendix B.
+- suts.jl: the suts under investigation
 
 To run the scripts with an installation of Julia (e.g. verified version 1.5.3), you can execute the shell script stats.sh in directory `autobva` on a linux-based operating system: `./stats.sh`.
 
