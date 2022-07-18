@@ -1,0 +1,17 @@
+time,algorithm,cts,ss,found_mean,found_sd
+30,lns,false,uniform,0.0,0.0
+30,lns,true,uniform,8.6,0.8944271909999157
+30,lns,false,bituniform,7.0,0.0
+30,lns,true,bituniform,9.8,0.8366600265340756
+30,bcs,false,uniform,0.0,0.0
+30,bcs,true,uniform,22.0,1.0
+30,bcs,false,bituniform,55.8,0.8366600265340756
+30,bcs,true,bituniform,56.0,0.7071067811865476
+60,lns,false,uniform,0.0,0.0
+60,lns,true,uniform,9.8,0.4472135954999579
+60,lns,false,bituniform,7.8,1.3038404810405297
+60,lns,true,bituniform,10.4,0.8944271909999157
+60,bcs,false,uniform,0.0,0.0
+60,bcs,true,uniform,23.8,0.4472135954999579
+60,bcs,false,bituniform,56.0,0.0
+60,bcs,true,bituniform,56.2,0.4472135954999579

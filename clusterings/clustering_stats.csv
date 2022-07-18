@@ -1,0 +1,17 @@
+sut,time,strategy,algorithm,groundtruthsize,found_mean,found_sd,found_unique
+BMI classification,30,bituniform,bcs,15,9.0,0.6666666666666666,0
+BMI classification,30,bituniform,lns,15,13.7,0.8232726023485646,2
+BMI classification,600,bituniform,bcs,15,14.2,0.7888106377466155,0
+BMI classification,600,bituniform,lns,15,15.0,0.0,0
+BMI,30,bituniform,bcs,5,4.8,0.42163702135578385,0
+BMI,30,bituniform,lns,5,5.0,0.0,0
+BMI,600,bituniform,bcs,5,5.0,0.0,0
+BMI,600,bituniform,lns,5,5.0,0.0,0
+ByteCount,30,bituniform,bcs,8,8.0,0.0,2
+ByteCount,30,bituniform,lns,8,5.1,0.5676462121975466,0
+ByteCount,600,bituniform,bcs,8,8.0,0.0,2
+ByteCount,600,bituniform,lns,8,6.0,0.0,0
+Julia Date,30,bituniform,bcs,11,2.7,1.0593499054713802,1
+Julia Date,30,bituniform,lns,11,4.9,0.31622776601683794,1
+Julia Date,600,bituniform,bcs,11,7.5,0.8498365855987975,6
+Julia Date,600,bituniform,lns,11,5.0,0.0,0

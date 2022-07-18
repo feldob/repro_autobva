@@ -1,0 +1,12 @@
+clustering,year,month,day,output,n_year,n_month,n_day,n_output,cluster,clustermembers,bcs
+EE,-8,3,-1,"ArgumentError(""Day: -1 out of range (1:31)"")",-8,3,0,"ArgumentError(""Day: 0 out of range (1:31)"")",2,34465,6373
+EE,0,0,92,"ArgumentError(""Month: 0 out of range (1:12)"")",0,1,92,"ArgumentError(""Day: 92 out of range (1:31)"")",1,871,108
+EE,0,4,99,"ArgumentError(""Day: 99 out of range (1:30)"")",0,4,100,"ArgumentError(""Day: 100 out of range (1:30)"")",3,8,7
+EE,0,99999999,0,"ArgumentError(""Month: 99999999 out of range (1:12)"")",0,100000000,0,"ArgumentError(""Month: 100000000 out of range (1:12)"")",4,3,3
+VV,-1,9,3,-0001-09-03,0,9,3,0000-09-03,2,115,38
+VV,9999,5,9,9999-05-09,10000,5,9,10000-05-09,1,14,13
+VV,-10000,2,3,-10000-02-03,-9999,2,3,-9999-02-03,4,8,8
+VV,1615164095665992,3,22,99999999999999-18085043209519168-20,1615164095665993,3,22,100000000000000-18085043209519168-20,5,5,5
+VV,757576862466481,2,21,252522163911150-6028347736506391-02,757576862466482,2,21,-252522163911150-12056695473012777-30,3,1,1
+VE,0,2,0,"ArgumentError(""Day: 0 out of range (1:29)"")",0,2,1,0000-02-01,2,11019,1560
+VE,330,5,0,"ArgumentError(""Day: 0 out of range (1:31)"")",330,5,1,0330-05-01,1,890,111

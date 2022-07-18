@@ -1,0 +1,16 @@
+clustering,h,w,output,n_h,n_w,n_output,cluster,clustermembers,bcs
+VV,115,32,Overweight,115,33,Obese,6,139,49
+VV,132,44,Obese,133,44,Overweight,10,93,28
+VV,108,26,Normal,108,27,Overweight,3,125,40
+VV,133,41,Overweight,134,41,Normal,1,103,38
+VV,26,1,Underweight,26,2,Obese,12,5,5
+VV,100075388,18477829017537,Normal,100075389,18477829017537,Underweight,4,871,818
+VV,101,18,Underweight,101,19,Normal,7,511,459
+VV,101,30,Obese,101,31,Severely obese,5,394,358
+VV,1015,3087,Severely obese,1016,3087,Obese,2,814,747
+VV,21,1,Normal,21,2,Severely obese,9,5,5
+VV,29,1,Underweight,29,2,Overweight,8,3,3
+VV,29,2,Overweight,29,3,Severely obese,13,2,1
+VV,1,0,Underweight,1,1,Severely obese,11,19,19
+VE,1,-1,"DomainError(""Height or Weight cannot be negative."", """")",1,0,Underweight,2,35051,3991
+VE,-1,0,"DomainError(""Height or Weight cannot be negative."", """")",0,0,Severely obese,1,35176,3809

@@ -1,0 +1,14 @@
+year,month,day,output,type,metric,n_year,n_month,n_day,n_output,n_type,count
+100616,0,32,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,1.0,100616,1,32,"ArgumentError(""Day: 32 out of range (1:31)"")",ArgumentError,1
+332,0,-943,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,1.0,332,1,-943,"ArgumentError(""Day: -943 out of range (1:31)"")",ArgumentError,1
+179,999999999999999,1157,"ArgumentError(""Month: 999999999999999 out of range (1:12)"")",ArgumentError,1.0,179,1000000000000000,1157,"ArgumentError(""Month: 1000000000000000 out of range (1:12)"")",ArgumentError,1
+155,8,0,"ArgumentError(""Day: 0 out of range (1:31)"")",ArgumentError,33.0,155,8,1,0155-08-01,Dates.Date,1
+109,0,-259,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,1.0,109,1,-259,"ArgumentError(""Day: -259 out of range (1:31)"")",ArgumentError,1
+73,0,18,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,35.0,73,1,18,0073-01-18,Dates.Date,1
+11,999999999999999999,-39,"ArgumentError(""Month: 999999999999999999 out of range (1:12)"")",ArgumentError,1.0,11,1000000000000000000,-39,"ArgumentError(""Month: 1000000000000000000 out of range (1:12)"")",ArgumentError,1
+1,2,-10000000000000000,"ArgumentError(""Day: -10000000000000000 out of range (1:28)"")",ArgumentError,1.0,1,2,-9999999999999999,"ArgumentError(""Day: -9999999999999999 out of range (1:28)"")",ArgumentError,1
+1,0,4,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,35.0,1,1,4,0001-01-04,Dates.Date,1
+1,-1,-10,"ArgumentError(""Month: -1 out of range (1:12)"")",ArgumentError,1.0,1,0,-10,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,1
+0,0,8612,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,1.0,0,1,8612,"ArgumentError(""Day: 8612 out of range (1:31)"")",ArgumentError,1
+-1005,0,-1308819,"ArgumentError(""Month: 0 out of range (1:12)"")",ArgumentError,5.0,-1005,1,-1308819,"ArgumentError(""Day: -1308819 out of range (1:31)"")",ArgumentError,1
+-3311350,-100,-377,"ArgumentError(""Month: -100 out of range (1:12)"")",ArgumentError,1.0,-3311350,-99,-377,"ArgumentError(""Month: -99 out of range (1:12)"")",ArgumentError,1

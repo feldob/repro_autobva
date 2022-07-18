@@ -1,0 +1,6 @@
+clustering,h,w,output,n_h,n_w,n_output,cluster,clustermembers,bcs
+VV,106,11,9.8,106,12,10.7,2,99113,11181
+VV,0,93,Inf,1,93,930000.0,1,5753,299
+VE,-1,1,"DomainError(""Height or Weight cannot be negative."", """")",0,1,Inf,2,95046,6534
+VE,-1,0,"DomainError(""Height or Weight cannot be negative."", """")",0,0,NaN,1,2,2
+VE,1,-1,"DomainError(""Height or Weight cannot be negative."", """")",1,0,0.0,3,38449,4494

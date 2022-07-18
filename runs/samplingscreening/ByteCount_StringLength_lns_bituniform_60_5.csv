@@ -1,0 +1,8 @@
+bytes,output,type,metric,n_bytes,n_output,n_type,count
+999,999B,String,2.0,1000,1.0 kB,String,9
+99,99B,String,1.0,100,100B,String,54
+9,9B,String,1.0,10,10B,String,383
+-1,-1B,String,1.0,0,0B,String,5925
+-10,-10B,String,1.0,-9,-9B,String,365
+-100,-100B,String,1.0,-99,-99B,String,41
+-1000,-1000B,String,1.0,-999,-999B,String,7

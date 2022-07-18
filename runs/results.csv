@@ -1,0 +1,161 @@
+sut,metric,algorithm,samplingstrategy,cts,repetition,time,iterations
+ByteCount,StringLength,bcs,bituniform,true,1,30,5895
+ByteCount,StringLength,bcs,bituniform,true,2,30,5209
+ByteCount,StringLength,bcs,bituniform,true,3,30,5873
+ByteCount,StringLength,bcs,bituniform,true,4,30,5587
+ByteCount,StringLength,bcs,bituniform,true,5,30,5644
+ByteCount,StringLength,bcs,bituniform,true,6,30,5208
+ByteCount,StringLength,bcs,bituniform,true,7,30,5345
+ByteCount,StringLength,bcs,bituniform,true,8,30,5537
+ByteCount,StringLength,bcs,bituniform,true,9,30,4921
+ByteCount,StringLength,bcs,bituniform,true,10,30,5133
+ByteCount,StringLength,bcs,bituniform,true,1,600,100831
+ByteCount,StringLength,bcs,bituniform,true,2,600,104813
+ByteCount,StringLength,bcs,bituniform,true,3,600,102108
+ByteCount,StringLength,bcs,bituniform,true,4,600,103618
+ByteCount,StringLength,bcs,bituniform,true,5,600,103700
+ByteCount,StringLength,bcs,bituniform,true,6,600,103332
+ByteCount,StringLength,bcs,bituniform,true,7,600,103015
+ByteCount,StringLength,bcs,bituniform,true,8,600,104639
+ByteCount,StringLength,bcs,bituniform,true,9,600,103359
+ByteCount,StringLength,bcs,bituniform,true,10,600,101279
+ByteCount,StringLength,lns,bituniform,true,1,30,515079
+ByteCount,StringLength,lns,bituniform,true,2,30,510375
+ByteCount,StringLength,lns,bituniform,true,3,30,506481
+ByteCount,StringLength,lns,bituniform,true,4,30,514372
+ByteCount,StringLength,lns,bituniform,true,5,30,510968
+ByteCount,StringLength,lns,bituniform,true,6,30,512259
+ByteCount,StringLength,lns,bituniform,true,7,30,510977
+ByteCount,StringLength,lns,bituniform,true,8,30,513236
+ByteCount,StringLength,lns,bituniform,true,9,30,513066
+ByteCount,StringLength,lns,bituniform,true,10,30,510532
+ByteCount,StringLength,lns,bituniform,true,1,600,9200069
+ByteCount,StringLength,lns,bituniform,true,2,600,10128870
+ByteCount,StringLength,lns,bituniform,true,3,600,10243988
+ByteCount,StringLength,lns,bituniform,true,4,600,10234085
+ByteCount,StringLength,lns,bituniform,true,5,600,10240940
+ByteCount,StringLength,lns,bituniform,true,6,600,10307918
+ByteCount,StringLength,lns,bituniform,true,7,600,10335747
+ByteCount,StringLength,lns,bituniform,true,8,600,10351665
+ByteCount,StringLength,lns,bituniform,true,9,600,10369141
+ByteCount,StringLength,lns,bituniform,true,10,600,10314215
+BMI,StringLength,bcs,bituniform,true,1,30,258
+BMI,StringLength,bcs,bituniform,true,2,30,640
+BMI,StringLength,bcs,bituniform,true,3,30,573
+BMI,StringLength,bcs,bituniform,true,4,30,615
+BMI,StringLength,bcs,bituniform,true,5,30,657
+BMI,StringLength,bcs,bituniform,true,6,30,569
+BMI,StringLength,bcs,bituniform,true,7,30,591
+BMI,StringLength,bcs,bituniform,true,8,30,610
+BMI,StringLength,bcs,bituniform,true,9,30,614
+BMI,StringLength,bcs,bituniform,true,10,30,523
+BMI,StringLength,bcs,bituniform,true,1,600,11503
+BMI,StringLength,bcs,bituniform,true,2,600,11512
+BMI,StringLength,bcs,bituniform,true,3,600,11656
+BMI,StringLength,bcs,bituniform,true,4,600,11483
+BMI,StringLength,bcs,bituniform,true,5,600,11503
+BMI,StringLength,bcs,bituniform,true,6,600,11541
+BMI,StringLength,bcs,bituniform,true,7,600,11626
+BMI,StringLength,bcs,bituniform,true,8,600,11666
+BMI,StringLength,bcs,bituniform,true,9,600,11689
+BMI,StringLength,bcs,bituniform,true,10,600,11171
+BMI,StringLength,lns,bituniform,true,1,30,16285
+BMI,StringLength,lns,bituniform,true,2,30,16067
+BMI,StringLength,lns,bituniform,true,3,30,15667
+BMI,StringLength,lns,bituniform,true,4,30,15389
+BMI,StringLength,lns,bituniform,true,5,30,15074
+BMI,StringLength,lns,bituniform,true,6,30,14993
+BMI,StringLength,lns,bituniform,true,7,30,14693
+BMI,StringLength,lns,bituniform,true,8,30,14702
+BMI,StringLength,lns,bituniform,true,9,30,14302
+BMI,StringLength,lns,bituniform,true,10,30,14203
+BMI,StringLength,lns,bituniform,true,1,600,292092
+BMI,StringLength,lns,bituniform,true,2,600,291402
+BMI,StringLength,lns,bituniform,true,3,600,289605
+BMI,StringLength,lns,bituniform,true,4,600,290571
+BMI,StringLength,lns,bituniform,true,5,600,291544
+BMI,StringLength,lns,bituniform,true,6,600,292264
+BMI,StringLength,lns,bituniform,true,7,600,287658
+BMI,StringLength,lns,bituniform,true,8,600,285828
+BMI,StringLength,lns,bituniform,true,9,600,285709
+BMI,StringLength,lns,bituniform,true,10,600,285957
+BMI classification,StringLength,bcs,bituniform,true,1,30,488
+BMI classification,StringLength,bcs,bituniform,true,2,30,501
+BMI classification,StringLength,bcs,bituniform,true,3,30,389
+BMI classification,StringLength,bcs,bituniform,true,4,30,473
+BMI classification,StringLength,bcs,bituniform,true,5,30,530
+BMI classification,StringLength,bcs,bituniform,true,6,30,464
+BMI classification,StringLength,bcs,bituniform,true,7,30,433
+BMI classification,StringLength,bcs,bituniform,true,8,30,492
+BMI classification,StringLength,bcs,bituniform,true,9,30,501
+BMI classification,StringLength,bcs,bituniform,true,10,30,478
+BMI classification,StringLength,bcs,bituniform,true,1,600,9825
+BMI classification,StringLength,bcs,bituniform,true,2,600,9639
+BMI classification,StringLength,bcs,bituniform,true,3,600,9938
+BMI classification,StringLength,bcs,bituniform,true,4,600,10135
+BMI classification,StringLength,bcs,bituniform,true,5,600,10124
+BMI classification,StringLength,bcs,bituniform,true,6,600,9898
+BMI classification,StringLength,bcs,bituniform,true,7,600,10110
+BMI classification,StringLength,bcs,bituniform,true,8,600,9970
+BMI classification,StringLength,bcs,bituniform,true,9,600,9701
+BMI classification,StringLength,bcs,bituniform,true,10,600,9728
+BMI classification,StringLength,lns,bituniform,true,1,30,13204
+BMI classification,StringLength,lns,bituniform,true,2,30,13263
+BMI classification,StringLength,lns,bituniform,true,3,30,12937
+BMI classification,StringLength,lns,bituniform,true,4,30,12798
+BMI classification,StringLength,lns,bituniform,true,5,30,12818
+BMI classification,StringLength,lns,bituniform,true,6,30,12683
+BMI classification,StringLength,lns,bituniform,true,7,30,12809
+BMI classification,StringLength,lns,bituniform,true,8,30,12325
+BMI classification,StringLength,lns,bituniform,true,9,30,12446
+BMI classification,StringLength,lns,bituniform,true,10,30,12435
+BMI classification,StringLength,lns,bituniform,true,1,600,260823
+BMI classification,StringLength,lns,bituniform,true,2,600,263268
+BMI classification,StringLength,lns,bituniform,true,3,600,266138
+BMI classification,StringLength,lns,bituniform,true,4,600,267168
+BMI classification,StringLength,lns,bituniform,true,5,600,268549
+BMI classification,StringLength,lns,bituniform,true,6,600,264465
+BMI classification,StringLength,lns,bituniform,true,7,600,262144
+BMI classification,StringLength,lns,bituniform,true,8,600,259264
+BMI classification,StringLength,lns,bituniform,true,9,600,248949
+BMI classification,StringLength,lns,bituniform,true,10,600,247537
+Julia Date,StringLength,bcs,bituniform,true,1,30,39
+Julia Date,StringLength,bcs,bituniform,true,2,30,40
+Julia Date,StringLength,bcs,bituniform,true,3,30,39
+Julia Date,StringLength,bcs,bituniform,true,4,30,47
+Julia Date,StringLength,bcs,bituniform,true,5,30,37
+Julia Date,StringLength,bcs,bituniform,true,6,30,50
+Julia Date,StringLength,bcs,bituniform,true,7,30,49
+Julia Date,StringLength,bcs,bituniform,true,8,30,52
+Julia Date,StringLength,bcs,bituniform,true,9,30,73
+Julia Date,StringLength,bcs,bituniform,true,10,30,49
+Julia Date,StringLength,bcs,bituniform,true,1,600,1662
+Julia Date,StringLength,bcs,bituniform,true,2,600,2201
+Julia Date,StringLength,bcs,bituniform,true,3,600,2211
+Julia Date,StringLength,bcs,bituniform,true,4,600,2237
+Julia Date,StringLength,bcs,bituniform,true,5,600,2179
+Julia Date,StringLength,bcs,bituniform,true,6,600,2063
+Julia Date,StringLength,bcs,bituniform,true,7,600,1971
+Julia Date,StringLength,bcs,bituniform,true,8,600,1979
+Julia Date,StringLength,bcs,bituniform,true,9,600,1938
+Julia Date,StringLength,bcs,bituniform,true,10,600,1988
+Julia Date,StringLength,lns,bituniform,true,1,30,930
+Julia Date,StringLength,lns,bituniform,true,2,30,906
+Julia Date,StringLength,lns,bituniform,true,3,30,916
+Julia Date,StringLength,lns,bituniform,true,4,30,876
+Julia Date,StringLength,lns,bituniform,true,5,30,895
+Julia Date,StringLength,lns,bituniform,true,6,30,899
+Julia Date,StringLength,lns,bituniform,true,7,30,910
+Julia Date,StringLength,lns,bituniform,true,8,30,901
+Julia Date,StringLength,lns,bituniform,true,9,30,899
+Julia Date,StringLength,lns,bituniform,true,10,30,897
+Julia Date,StringLength,lns,bituniform,true,1,600,17940
+Julia Date,StringLength,lns,bituniform,true,2,600,18238
+Julia Date,StringLength,lns,bituniform,true,3,600,18359
+Julia Date,StringLength,lns,bituniform,true,4,600,18215
+Julia Date,StringLength,lns,bituniform,true,5,600,17552
+Julia Date,StringLength,lns,bituniform,true,6,600,18057
+Julia Date,StringLength,lns,bituniform,true,7,600,17894
+Julia Date,StringLength,lns,bituniform,true,8,600,17317
+Julia Date,StringLength,lns,bituniform,true,9,600,17355
+Julia Date,StringLength,lns,bituniform,true,10,600,17758
